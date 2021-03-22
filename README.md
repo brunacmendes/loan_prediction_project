@@ -6,12 +6,13 @@
 # Steps
 
 1. Loading the dataset into pandas dataframe
-2. One hot encoding categorical features into numeric
-3. Creating training and validation set
-4. Defining the architeture of the model
-5. Compiling the model (defining loss/cost function, optimizer)
-6. Training the model
-7. Evaluating model performance on both training and validation set
+2. Cleanin and pre-processing data
+3. One hot encoding categorical features into numeric
+4. Creating training and validation set
+5. Defining the architeture of the model
+6. Compiling the model (defining loss/cost function, optimizer)
+7. Training the model
+8. Evaluating model performance on both training and validation set
 
 # Requirements:
 
