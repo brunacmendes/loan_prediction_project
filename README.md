@@ -7,7 +7,7 @@
 
 1. Loading the dataset into pandas dataframe
 2. Cleaning and pre-processing data
-3. One hot encoding categorical features into numeric
+3. Change categorical features into numeric
 4. Creating training and validation set
 5. Defining the architeture of the model
 6. Compiling the model (defining loss/cost function, optimizer)
